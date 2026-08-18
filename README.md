@@ -1,6 +1,53 @@
-Perkenalkan Nama saya Riffan Junyffer Nainggolan, Kelas IF405 dan NIM saya :250401020087 Saat ini aktif berkuliah di Universitas Siber Asia dan sedang mendalami data science.
+Perkenalkan Nama saya Riffan Junyffer Nainggolan, Kelas IF405, dan NIM 250401020087
+Saat ini aktif berkuliah di Universitas Siber Asia dan sedang mendalami data science.
 
-Tujuan saya untuk mendalami data science adalah karena ketertarikan saya akan data science dan penerapan nya di dalam perusahaan. Dimana data science merupakan salah satu pertimbangan dalam menentukan arah dan keputusan sebuah perusahaan lewat riset dan pengumpulan data yang terarah dan terstruktur. Di dalam repostory ini kita mempelajari penggunaan python sebagai bahasa utama di dalam Data Science di dalam pengolahan data, visualisasi grafiknya dan analisa yang sederhana sehingga dapat diharapkan bisa membantu dalam Data Science secara lebih baik lagi.
+Tujuan saya untuk mendalami data science adalah karena ketertarikan saya akan data science dan penerapan nya di dalam perusahaan.
+Dimana data science merupakan salah satu pertimbangan dalam menentukan arah dan keputusan sebuah perusahaan lewat riset dan pengumpulan data yang terarah dan terstruktur.
+Di dalam repostory ini kita mempelajari penggunaan python sebagai bahasa utama di dalam Data Science di dalam pengolahan data, visualisasi grafiknya dan analisa yang sederhana sehingga dapat diharapkan bisa membantu dalam Data Science secara lebih baik lagi.
+
 List Pertemuan :
-Pertemuan 1 : 
-Merupakan perkenalan Data Science. Membahasa definisi,peran, jenjang karir, CRISP-DM dan perkenalan penggunaan Google Colab dan GitHub. Link repostori
+1. Pertemuan 1 : Merupakan perkenalan Data Science. Membahasa definisi,peran, jenjang karir, CRISP-DM dan perkenalan penggunaan Google Colab dan GitHub. Link repostori : https://github.com/Riffanjunyffer/Data-Science-2026/blob/main/Pertemuan1_RiffanJunyfferNainggolan_250401020087.ipynb
+2. Pertemuan 2 : Membahas struktur data python yang terdiri dari list, tuple, dictionary dan set. pengenalam dan pembuatan komputasi numerik menggunakan Numpy dan manipulasi data dengan Pandas. Link repostori : https://github.com/Riffanjunyffer/Data-Science-2026/blob/main/Pertemuan2_RiffanJunyfferNainggolan_250401020087.ipynb
+3. Pertemuan 3 : Membahas cara cleaning data untuk menangani data yang tidak lengkap (data kosong), data duplikat dan outliers. Serta cara ekstraksi data JSON dan Rest Api Publik. Link repostori : https://github.com/Riffanjunyffer/Data-Science-2026/blob/main/Pertemuan3_RiffanJunyfferNainggolan_250401020087.ipynb
+4. Pertemuan 4 : membahas dasar matematika untuk analisa sebuah data yakni mean, median stndar deviasi, distribusi data. Serta analisis univariat dan bivariat (korelasi). Link repostori : https://github.com/Riffanjunyffer/Data-Science-2026/blob/main/Pertemuan4RiffanJunyfferNainggolan_250401020087.ipynb
+5. Pertemuan 5 : Membahas visualisasi data dengan menggunakan librari Matplotlib dan seaborn, prinsip visualisasi data yang efektif, memilih visualisai yang efektif. Serta cara membaca grafik dan menarik insight dari sebuah grafik. Link repostori : https://github.com/Riffanjunyffer/Data-Science-2026/blob/main/Pertemuan5_RiffanJunyfferNainggolan_250401020087.ipynb
+6.  Pertemuan 6 : Membahas persiapan data dimanaberfokus pada pre- proses sebelum pemodelan machine learning. Mencakup encoding data kategorikal, scaling normalization, kemudian training test split serta paramater nya. Link repostori nya : https://github.com/Riffanjunyffer/Data-Science-2026/blob/main/Pertemuan6_RiffanJunyfferNainggolan_250401020087.ipynb
+7.  Pertemuan 7 : Membahas pengantar machine learning yaitu regresi linear. Fase pemodelan prediktif yang berfokus pada algoritma regresi linear yang terdiri dari konsep dasar, cara kerja sistematis hingga pemodelan dengan metode MAE, RMSE dan R-Squad. Link repostori : https://github.com/Riffanjunyffer/Data-Science-2026/blob/main/Pertemuan7_RiffanJunyfferNainggolan_250401020087.ipynb
+8.  Pertemuan 9 : Membahas logistic regression, decision tree dan metrik evaluasi. Mempelajari pediksi kategori diskret, memahami cara kerja decision tree dalam membuat aturan bertingkat serta evaluasi performa kualifikasi memakai Confusion, accuracy, precision, recall dan F1 Score. Link repostori : https://github.com/Riffanjunyffer/Data-Science-2026/blob/main/Pertemuan9_RiffanJunyfferNainggolan_250401020087.ipynb
+10.  Pertemuan 11 : membahasa K-Means, Hierarchical Clustering dan Elbow method. Data tanpa label dikelompokkan ke dalam klaster yang memiliki kesamaan, dan menentukan jumlah klaster menggunakan metode elbow. Link repostory : https://github.com/Riffanjunyffer/Data-Science-2026/blob/main/Pertemuan11_RiffanJunyfferNainggolan_250401020087.ipynb
+11.   Pertemuan 12 : Mempelajari dua metode untuk rekomendasi yakni Association Rules (pola pembelian barang sering dibeli bersamaan) dan content based (mencari kemiripan antar item). Juga mempelajari evaluasi hubungan antar item menggunakan metrik support, confidence, dan lift. Link repostori : https://github.com/Riffanjunyffer/Data-Science-2026/blob/main/Pertemuan12_RiffanJunyfferNainggolan_250401020087.ipynb
+12.   Pertemuan 13 : Mempelajari Neural Network Sederhana, melatih nya dengan layer dense, Kemudian menggunakan TF-IDF untuk mengubah data teks menjadi representasi numerik agar bisa dilakukan analisa sentimen. Link repostori nya : https://github.com/Riffanjunyffer/Data-Science-2026/blob/main/Pertemuan13_RiffanJunyfferNainggolan_250401020087.ipynb
+
+Berikut adalah enviromental yang digunakan :
+1. Bahasa python
+2. Google Colab
+3. Github.
+
+Tool dan Library yang digunakan
+1. Numpy library : khusus untuk komputasi numerik
+2. Pandas : adalah library open-source yang menyediakan struktur data dan alat analisis data berkecepatan tinggi dan mudah digunakan untuk Python.
+3. Matplotlib : Library visualisasi dasar yang paling fleksibel untuk membuat berbagai grafik statis seperti bar chart, line chart, dan scatter plot.
+4. Seaborn : Library visualisasi statistik yang dibangun di atas Matplotlib dengan tampilan yang lebih menarik dan perintah yang lebih ringkas untuk visualisasi distribusi serta hubungan data.
+5. Missingno (msno): Digunakan secara khusus untuk memvisualisasikan pola data yang hilang (missing values) dalam dataset melalui matriks atau heatmap.
+6. SciPy : Untuk dapat running secara lokal untuk analisis statistik tingkat lanjut, seperti menghitung Z-score untuk deteksi outlier, uji skewness, korelasi Pearson, dan korelasi Spearman.
+7. Requests data library Rest API
+8. Json : untuk memproses, membaca, dan menulis data dalam format JSON
+9. Library Scikit-Learn : dari persiapan data hingga evaluasi model untuk Machine Learning
+10. sklearn.ensemble (RandomForestClassifier): Untuk algoritma Random Forest pada prediksi Churn.
+
+    
+Untuk bisa menjalankan notebook secara lokal bisa mengikuti dokumentasi berikut https://research.google.com/colaboratory/local-runtimes.html. Sedangkan link untuk google collab nya adalah sebagai berikut https://drive.google.com/drive/folders/181VYY55D_Y4mD4gu3jl42yMyJd3PKs38?usp=sharing
+
+KESIMPULAN UMUM
+    Pembelajaran dari sesi pertama sampai ketujuh adalah sebuah proses yang sistematis mengikuti standar CRISP-DM (Cross Industry Standard Process for Data Mining). DImana proses- prosesnya sepeti di bawha ini
+1. Data Science adalah sebuah bidang pembelajaran yang terdiri dari statistika, ilmu komputer yang menggunakan python sebagai bahasa pemrograman. Menggunakan google colab sebagai wadah penuisan code dan dipublikasikan menggunakan platform GitHub. Pentingnya untuk menguasai struktur data Python serta penggunaan librari dasar seperti Numpy dan Pandas.
+2. Tahap selanjutnya mempelajatri bagaimana Cleaning Data yang terdiri dari menangani missing value, duplikasi serta deteksi outliers.
+3. Mempelajari ekstrak data dari JSON dan REST API.
+4. Pembelajaran mengenai statistika deskriptif (mean, median, korelasi) dan visualisasi data, dengan menggunakan librari Matplotlib dan Seaborn untuk membuat grafik. Serta diharapkan mahasiswa dapat belajar mengenai data story telling dengan prinsip What? So What? Now what? untuk dapat menarik kesimpulan dari grafik yang sudah dibuat.
+5. Pembelajaran pemodelan Machine Learning  dimana ada tahap preprocessing (encoding data kategorikal, feature scalling dan membagi data menjadi training set dan test set)
+6. Penerapan Machine learning dengan algoritma Regresi Linear, dimana kita belajar untuk membangun model prediksi untuk nilai yang kontinu, serta cara evaluasi akurasi dengan menggunakan metrik MAE. RMSE dan R squared.
+7. Penerapan pemodelan untuk kasus klafikasi sehingga bisa memprediksi kelas/kategori diskret memakai algoritma Logistic Regression dan decision tree. Kemudian sebagai evaluasi digunakan metrik evaluasi khusus klasifikasi seperti accuracy dan confusion matrix
+8. Pengembangan model Machine Learning memakai pendekatan random forest agar prediksi menjadi lebih akurat, disertai pemahaman strategi dalam menangani ketidakseimbangan data (imbalanced dataset)
+9. Untuk menemukan pola pada data yang tidak memilik label (unsupervised learning) dapat menggunakan metode clustering : K Means dan Hierarchical sebagai segmentasi data.
+10. Pencarian asosiasi data dalam Market Basket Analysis menggunakan algoritma Apriori untuk melihat pola pembelian bersama, yang menjadi pondasi dasar dalam membangun sistem rekomendasi baik dengan Collaborative dan Content based learning.
+11. Kemudian diakhiri dengan teknologi kecerdasan buatan melalu deep learning menggunakan arsitektur ANN (Artificial Neural Network) serta Natural Language Processing (NLP) dalam proses teks dan sentimen secara matematis menggunakan TF-IDF
